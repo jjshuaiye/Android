@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/meinv1"
+        android:title="美女1"
+        android:orderInCategory="1"></item>
+    <item
+        android:id="@+id/meinv2"
+        android:title="美女2"
+        android:orderInCategory="1"></item>
+    <item
+        android:id="@+id/meinv3"
+        android:title="美女3"
+        android:orderInCategory="1"></item>
+    <item
+        android:id="@+id/meinv4"
+        android:title="美女4"
+        android:orderInCategory="1"></item>
+    <item
+        android:id="@+id/meinv5"
+        android:title="美女5"
+        android:orderInCategory="1"></item>
+    <item
+        android:id="@+id/meinv6"
+        android:title="美女6"
+        android:orderInCategory="1"></item>
+    <item
+        android:id="@+id/meinv7"
+        android:title="美女7"
+        android:orderInCategory="1"></item>
+    <item
+        android:id="@+id/meinv8"
+        android:title="美女8"
+        android:orderInCategory="1"></item>
+    <item
+        android:id="@+id/meinv9"
+        android:title="美女9"
+        android:orderInCategory="1"></item>
+
+</menu>
